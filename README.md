@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="24" alt="gmail logo" />
 </a>
 
+---
+
 <p align="left">
   <b>Welcome to my profile!</b>
   
@@ -19,7 +21,7 @@
 <h2 align="left">🛠 Some of my favorite tech</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,react,svelte,astro,nodejs,tailwind,postgres,mysql,redis,prisma,docker,linux,git,gitlab,github,cloudflare,vercel&perline=20&theme=light" height="48" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,react,svelte,astro,nodejs,tailwind,postgres,mysql,redis,prisma,docker,linux,git,gitlab,github,cloudflare,vercel&perline=21&theme=light" alt="tech stack" />
 </p>
 
 ---
