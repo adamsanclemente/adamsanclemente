@@ -21,7 +21,7 @@
 <h2 align="left">🛠 Some of my favorite tech</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,react,svelte,astro,nodejs,tailwind,postgres,mysql,redis,prisma,docker,linux,git,gitlab,github,cloudflare,vercel&perline=21&theme=light" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,react,svelte,astro,nodejs,tailwind,postgres,mysql,redis,prisma,docker,linux,git,gitlab,github,cloudflare,vercel&perline=21&theme=dark" alt="tech stack" />
 </p>
 
 ---
