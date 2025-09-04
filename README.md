@@ -9,8 +9,6 @@
   </a>
 </div>
 
----
-
 <p align="left">
   Welcome to my profile!  
   I’m a CS student @ RIT and full-stack engineer @ HostVenom, passionate about building scalable systems, APIs, and tools that make life easier.  
