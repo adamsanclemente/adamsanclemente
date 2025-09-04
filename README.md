@@ -1,13 +1,13 @@
 <h1 align="left">👋 Hey there, I’m Adam</h1>
 
-<div align="left">
-  <a href="https://linkedin.com/in/adam-san-clemente" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="24" alt="linkedin logo" />
-  </a>
-  <a href="mailto:abombsc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="24" alt="gmail logo" />
-  </a>
-</div>
+<a href="https://linkedin.com/in/adam-san-clemente" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="24" alt="linkedin logo" />
+</a>
+<a href="mailto:abombsc@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="24" alt="gmail logo" />
+</a>
+
+<br><br>
 
 <p align="left">
   Welcome to my profile!  
@@ -20,13 +20,16 @@
 <h2 align="left">🛠 Tech I Use</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,react,svelte,astro,nodejs,tailwind,postgres,mysql,redis,prisma,docker,linux,git,gitlab,github,cloudflare,vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,react,svelte,astro,nodejs,tailwind,postgres,mysql,redis,prisma,docker,linux,git,gitlab,github,cloudflare,vercel" height="50" />
 </div>
 
 ---
 
-<!-- Snake animation -->
-![Snake animation](https://raw.githubusercontent.com/adamsanclemente/adamsanclemente/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adamsanclemente/adamsanclemente/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adamsanclemente/adamsanclemente/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adamsanclemente/adamsanclemente/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adamsanclemente.adamsanclemente" alt="visitor badge" />
