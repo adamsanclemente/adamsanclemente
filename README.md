@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- Blue Header Image -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Adam%20San%20Clemente&fontColor=FFFFFF&fontSize=48&section=header&customColorList=12,13" alt="Profile Header" />
+</p>
 
-<!--
-**adamsanclemente/adamsanclemente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hey there, I’m Adam San Clemente <span>👋</span></h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  Computer Science @ RIT • Full-stack engineer • Building scalable systems & clean APIs
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,react,svelte,nodejs,docker,postgres,redis&theme=dark" alt="tech icons" />
+</p>
+
+---
+
+###  Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/adam-san-clemente">
+    <img src="https://img.shields.io/badge/linkedin-Adam%20San%20Clemente-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:abombsc@gmail.com">
+    <img src="https://img.shields.io/badge/email-abombsc@gmail.com-red?logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
