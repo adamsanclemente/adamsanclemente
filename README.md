@@ -15,7 +15,8 @@
   Welcome to my profile!  
   I’m a CS student @ RIT and full-stack engineer @ HostVenom, passionate about building scalable systems, APIs, and tools that make life easier.  
   Over the last few years I’ve worked on everything from high-performance websites to internal platforms and microservices.  
-  Always chasing the next challenge — thanks for stopping by 🚀
+  
+  🚀 Thanks for stopping by — let's connect!
 </p>
 
 ---
@@ -28,4 +29,9 @@
 
 ---
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adamsanclemente.adamsanclemente" alt="visitor badge" />
+<!-- Snake animation -->
+![Snake animation](https://raw.githubusercontent.com/adamsanclemente/adamsanclemente/output/github-contribution-grid-snake.svg)
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adamsanclemente.adamsanclemente" alt="visitor badge" />
+</p>
