@@ -19,8 +19,6 @@
   🚀 Thanks for stopping by — let's connect!
 </p>
 
----
-
 <h2 align="left">🛠 Tech I Use</h2>
 
 <div align="left">
