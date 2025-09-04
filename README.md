@@ -7,21 +7,20 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="24" alt="gmail logo" />
 </a>
 
-<br><br>
-
 <p align="left">
-  Welcome to my profile!  
+  <b>Welcome to my profile!</b>
+  
   I’m a CS student @ RIT and full-stack engineer @ HostVenom, passionate about building scalable systems, APIs, and tools that make life easier.  
   Over the last few years I’ve worked on everything from high-performance websites to internal platforms and microservices.  
   
   🚀 Thanks for stopping by — let's connect!
 </p>
 
-<h2 align="left">🛠 Tech I Use</h2>
+<h2 align="left">🛠 Some of my favorite tech</h2>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,react,svelte,astro,nodejs,tailwind,postgres,mysql,redis,prisma,docker,linux,git,gitlab,github,cloudflare,vercel" height="50" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,react,svelte,astro,nodejs,tailwind,postgres,mysql,redis,prisma,docker,linux,git,gitlab,github,cloudflare,vercel&perline=20&theme=light" height="48" alt="tech stack" />
+</p>
 
 ---
 
